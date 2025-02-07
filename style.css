@@ -130,6 +130,25 @@ p {
     grid-column: 2;
 }
 
+#scrollToTop{
+    font-size: 25px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display: none;
+    background: rgb(255, 151, 188);
+    color: rgba(243, 5, 84, 0.747);
+    border: none;
+    padding: 8px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.rodape p{
+    font-size: 20px;
+    color: rgb(243, 5, 84);
+}
+
 .rodape {
     background: rgb(243, 200, 215);
     width: 100%;
